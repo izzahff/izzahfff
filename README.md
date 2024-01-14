@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @y2kl3m0n4d3
-- 👀 I’m interested in cybersecurity 
+- 👋 Hi, I’m Izzah!
+- 👀 I'm a first year student of Information System Engineering at UiTM Jasin, Melaka. 
 - 🌱 I’m currently learning c++ and phyton
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via instagram @/izzahfff
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a first year information system engineering student at UiTM Jasin, Melaka.
 
 <!---
 y2kl3m0n4d3/y2kl3m0n4d3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
