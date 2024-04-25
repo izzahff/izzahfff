@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Izzah!
 - 👀 I'm a first year student of Information System Engineering at UiTM Jasin, Melaka. 
-- 🌱 I’m currently learning c++ and phyton
+- 🌱 I’m currently learning c++, phyton, HTML and CSS.
 - 📫 Reach me via instagram @/izzahfff
 - 😄 Pronouns: she/her
 
